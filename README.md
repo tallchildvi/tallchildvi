@@ -12,8 +12,6 @@
 <a href="https://huggingface.co/spaces/tallchildvi/PreemptFire">
   <img src="https://img.shields.io/badge/Hugging_Face-Live_Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Demo" />
 </a>
-<a href="https://www.kaggle.com/datasets/hollyfrogvi/wildfire-iberia-100m">
-  <img src="https://img.shields.io/badge/Kaggle-Benchmark_Data-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Dataset" />
 </a>
 <a href="https://www.linkedin.com/in/andrii-levashov-4809203a0">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
