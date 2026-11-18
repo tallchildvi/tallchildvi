@@ -28,7 +28,6 @@
 
 - **Interests:** Data Science, Machine Learning, GeoAI, and Multi-Sensor Earth Observation
 - **Training:** Data Science for Engineering Practice @ **EPAM Systems** 
-- **Approach:** Bridging clean software architecture with rigorous validation and leakage-free modelling
 
 <br />
 
