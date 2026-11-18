@@ -29,7 +29,7 @@
 > 3rd-year Software Engineering student at **Taras Shevchenko National University of Kyiv**, combining **software engineering**, **data science**, and **machine learning** — from structured data pipelines to multi-sensor Earth observation.
 
 - **Interests:** Data Science, Machine Learning, GeoAI, and Multi-Sensor Earth Observation
-- **Training & Leadership:** Data Science for Engineering Practice @ **EPAM Systems** · Deputy Head of Science @ **KNU FCSC**
+- **Training:** Data Science for Engineering Practice @ **EPAM Systems** 
 - **Approach:** Bridging clean software architecture with rigorous validation and leakage-free modelling
 
 <br />
